@@ -8,18 +8,10 @@
   "scripts": {
     "doc": "cd doc && gitbook install && gitbook serve"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ustbhuangyi/vue-analysis.git"
-  },
   "keywords": [
     "vue",
     "analysis"
   ],
-  "author": "ustbuhuangyi",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ustbhuangyi/vue-analysis/issues"
-  },
-  "homepage": "https://github.com/ustbhuangyi/vue-analysis#readme"
+  "author": "zhoust",
+  "license": "MIT"
 }
